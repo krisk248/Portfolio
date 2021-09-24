@@ -1,13 +1,7 @@
-# Portfolio project
+# Portfolio Of my Project
 
-LIVE DEMO :- https://dnyaneshwarsakhare.github.io/Portfolio
+* This is a website from a great developer.
+* i have modified for my own use for temp purpose
+* this webiste showcases my work and projects
 
-NOTE:- You may not be seen Javascript files differently because I have added jQuery and javascript in index.html file itself.
-
-Features:-
-1. Dark Mode
-2. Responsive web page
-3. Responsive Nav-bar
-
-I have added Light mode & Dark mode with two .css files. You can checkout.
-
+It has dark theme and light theme too.
